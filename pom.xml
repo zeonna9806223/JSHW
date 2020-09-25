@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>demo</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>demo</name>
 	<description>Demo project for Spring Boot</description>
 
@@ -46,14 +46,4 @@
 		</plugins>
 	</build>
 
-<repository>
-  <id>60fsddevops-defaultcollection-javamaventest</id>
-  <url>http://60fsddevops:8080/DefaultCollection/_packaging/JavaMavenTest/maven/v1</url>
-  <releases>
-    <enabled>true</enabled>
-  </releases>
-  <snapshots>
-    <enabled>true</enabled>
-  </snapshots>
-</repository>
 </project>
